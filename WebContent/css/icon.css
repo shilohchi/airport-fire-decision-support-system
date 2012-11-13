@@ -1,0 +1,289 @@
+.add {
+    background-image: url(../shared/icons/fam/add.gif) !important;
+	background-repeat:no-repeat;
+}
+.login 
+{
+	 background-image: url(../shared/icons/icons/ipod_cast.png) !important;
+	 background-repeat:no-repeat;
+	}
+.message 
+{
+	 background-color:AppWorkspace;
+	 color:Blue;
+	 border-top-color:Orange;
+	 background-repeat:no-repeat;
+	 background-image: url(../shared/icons/icons/tick.png) !important;
+	}	
+.lock {
+    background-image: url(../shared/icons/icons/lock.png) !important;
+	background-repeat:no-repeat;
+}
+.UserName {
+    background-image: url(../shared/icons/fam/user_female.gif) !important;
+	background-repeat:no-repeat;
+}
+.searchInfo {
+    background-image: url(../shared/icons/icons/application_view_tile.png) !important;
+	background-repeat:no-repeat;
+}
+.pro {
+    background-image: url(../shared/icons/icons/lightbulb.png) !important;
+	background-repeat:no-repeat;
+}
+.find {
+    background-image: url(../shared/icons/icons/zoom.png) !important;
+	background-repeat:no-repeat;
+}
+.openBox {
+	
+    background-image: url(../shared/icons/fam/folder_wrench.png) !important;
+}
+.modify{
+	   background-image: url(../shared/icons/icons/wrench_orange.png) !important;
+}
+.active{
+	   background-image: url(../shared/icons/icons/tick.png) !important;
+}
+.option {
+    background-image: url(../shared/icons/fam/plugin.gif) !important;
+}
+
+.remove {
+    background-image: url(../shared/icons/fam/delete.gif) !important;
+	
+}
+.delete {
+    background-image: url(../shared/icons/fam/delete.gif) !important;
+	
+}
+.save {
+    background-image: url(../shared/icons/save.gif) !important;
+}
+.logo {
+    background-image: url(../images/logo.png) !important;
+	background-repeat:no-repeat;
+	
+}
+.tab {
+   background-image: url(../shared/icons/icons/tab.png) !important;
+	
+}
+.reset {
+   background-image: url(../shared/icons/icons/arrow_undo.png) !important;
+	
+}
+.userInfo2 {
+   background-image: url(../shared/icons/icons/vcard.png) !important;
+	
+}
+.addfloder {
+   background-image: url(../shared/icons/icons/folder_add.png) !important;
+	
+}
+.userManager {
+   background-image: url(../shared/icons/icons/user_edit.png) !important;
+	
+}
+.function {
+   background-image: url(../shared/icons/icons/rainbow.png) !important;
+	
+}
+.model{
+   background-image: url(../shared/icons/icons/cog.png) !important;
+	
+}
+.smodel{
+   background-image: url(../shared/icons/icons/cog_go.png) !important;
+	
+}
+.sysInfo {
+   background-image: url(../shared/icons/icons/shape_align_left.png) !important;
+	
+}
+.sysRole {
+   background-image: url(../shared/icons/icons/user.png) !important;
+	
+}
+.userInfo {
+   background-image: url(../shared/icons/icons/user_green.png) !important;
+	
+}
+.friendList {
+   background-image: url(../shared/icons/icons/vcard.png) !important;
+	
+}
+.login {
+   background-image: url(../shared/icons/icons/world_link.png) !important;
+	
+}
+.loginWin {
+   background-image: url(../shared/icons/icons/transmit_blue.png) !important;
+	
+}
+.userName {
+    background-image: url(../shared/icons/icons/user_edit.png) !important;
+	background-repeat:no-repeat;
+}
+.userPwd {
+    background-image: url(../shared/icons/icons/user_gray.png) !important;
+	background-repeat:no-repeat;
+}
+.column {
+    color: blue;
+	font-size:14px;
+	cursor:hand;	
+}
+.docs-header {
+   font:normal 16px tahoma, arial, sans-serif;
+    color:blue;
+}
+#north{
+   border:0 none;
+   background:#1E4176;
+   padding-top:5px;
+   padding-left:20px;
+}
+#loading-mask{
+	position:absolute;
+	left:0;
+	top:0;
+    width:100%;
+    height:100%;
+    z-index:20000;
+    background-color:white;
+}
+#loading{
+	position:absolute;
+	left:45%;
+	top:40%;
+	padding:2px;
+	z-index:20001;
+    height:auto;
+}
+#loading img {
+    margin-bottom:5px;
+}
+#loading .loading-indicator{
+	background:white;
+	color:#555;
+	font:bold 13px tahoma,arial,helvetica;
+	padding:10px;
+	margin:0;
+    text-align:center;
+    height:auto;
+}
+.list {list-style:square;width:500px;padding-left:16px;}
+.list li{padding:2px;font-size:8pt;}
+
+pre {
+   font-size:11px; 
+}
+
+
+
+/* default loading indicator for ajax calls */
+.loading-indicator {
+	font-size:8pt;
+	background-image:url('../Ext2.0/resources/images/default/grid/loading.gif');
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-left:20px;
+}
+
+.new-tab {
+    background-image:url(../feed-viewer/images/new_tab.gif) !important;
+}
+
+
+.tabs {
+    background-image:url(../shared/icons/icons/table.png) !important;
+}
+.className {
+    background-image:url(../shared/icons/icons/group_link.png) !important;
+    background-repeat:no-repeat;
+    background-position:left bottom;
+    padding:1px 0 1px 30px;
+    font-size:12px;
+    cursor:pointer;
+    color:Blue;
+    }
+.className:hover
+{
+    color:Red;
+}
+.search-item
+{
+    font: normal 11px tahoma, arial, helvetica, sans-serif;
+    padding: 3px 0px 3px 0px;
+    border-bottom: 1px solid #eeeeee;
+    white-space: normal;
+    color: #333333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.search-item h3 {
+    display:block;
+    font:inherit;
+    font-weight:bold;
+    color:#222;
+}
+
+.search-item h3 span {
+    float: right;
+    font-weight:normal;
+    margin:0 0 5px 5px;
+    width:100px;
+    display:block;
+    clear:none;
+}
+.student-item{
+    font:normal 11px tahoma, arial, helvetica, sans-serif;
+    padding:3px 0px 3px 0px;
+    border:1px solid #fff;
+    border-bottom:1px solid #eeeeee;
+    white-space:normal;
+    color:#555;
+}
+.student-item p
+{ 
+    cursor:pointer;
+    display:block;
+    margin:0;
+    padding:5px 5px 2px 15px;
+    width:100%;
+    font-size:100%;
+    border-bottom-style: dashed; border-bottom-width: 1px; border-bottom-color: #C0C0C0; }
+.student-item p:hover
+{
+    background-color: #F3F3F3;
+    color:Red;
+}
+.student-item label
+{
+    display:block;
+    float:left;
+    width:6em;
+    color:Blue;
+ }
+ .x-view-over
+ {
+      background-color:Green;
+  }
+  .x-item-disabled
+  {
+      color:Blue;
+  }
+  .x-grid-record-red{   
+    color:Red;   
+} 
+.x-grid3-row-alt{ outline-color: Gray;  background-color:#fff0df;}
+#custom-slider {
+    width:214px;
+    padding-top:6px;
+    background-image:url(../images/ticks.gif);
+    
+}
+#custom-slider .x-slider-thumb {
+    background-image:url(../images/slider-thumb.png);
+}
+
